@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Visual Studio Code extension
+- 🔭 I’m currently working on practicing my typescript skills!
 - 🌱 I’m currently learning Typescript
 - 📖 I'm currently studying at Western Washington University
 - ✨ I'm interested in: IoT, security protocols, Azure 
