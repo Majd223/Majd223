@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on cool new projects! built with Typescript, Python...
 - 🌱 I’m currently doing research at my school
 - 📖 I'm currently studying at Western Washington University
-- ✨ I'm interested in: IoT, Cybersecurity, Azure, green technology
+- ✨ I'm interested in: IoT, Cybersecurity, enery and power systems
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/majd-s/)
